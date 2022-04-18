@@ -1,3 +1,3 @@
 const h2 = document.createElement("h2");
-h2.textContent = "This content was added by JavaScript";
+h2.textContent = "A QUOTE I LIKE:";
 document.querySelector("body").appendChild(h2);

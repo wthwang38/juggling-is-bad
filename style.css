@@ -1,3 +1,26 @@
 body{
     background: burlywood;
 }
+.button {
+    display: inline-flex;
+    height: 50px;
+    padding: 0;
+    background: blue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    align-items: center;
+}
+.button:hover {
+    background: #008168;
+}
+
+.button:active {
+    background: burlywood;
+}
+
