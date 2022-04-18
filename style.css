@@ -1,7 +1,7 @@
 body{
     background: burlywood;
 }
-.button {
+#btn {
     display: inline-flex;
     height: 50px;
     padding: 0;
@@ -16,11 +16,11 @@ body{
     cursor: pointer;
     align-items: center;
 }
-.button:hover {
+#btn:hover {
     background: #008168;
 }
 
-.button:active {
+#btn:active {
     background: burlywood;
 }
 
